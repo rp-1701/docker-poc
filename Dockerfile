@@ -1,8 +1,13 @@
 #pull google cloud cli image
 FROM gcr.io/google.com/cloudsdktool/cloud-sdk:latest
 
-# authenticate and store the auth token
-RUN gcloud auth login --quiet && \
-    gcloud auth print-access-token --quiet > /token.txt
+WORKDIR /app
 
-RUN /bin/sh -c 'gcloud auth print-access-/access_token'
+COPY ~/docker-poc/output_jar/poc1.jar /app/poc1.jar
+
+COPY credentials/key.json /app/key.json
+
+ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
+
+CMD ["java", "-jar", "poc1.jar"]
+
