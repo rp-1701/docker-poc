@@ -1,5 +1,5 @@
 #pull google cloud cli image
-FROM gcr.io/google.com/cloudsdktool/cloud-sdk:latest
+FROM openjdk:11
 
 WORKDIR /app
 
