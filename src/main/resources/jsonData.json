@@ -1,0 +1,844 @@
+{
+  "name": "name",
+  "id": "id",
+  "schemaId": "default_schema",
+  "structData": {
+    "latitude": 33.98531,
+    "longitude": -118.47095,
+    "location_country": "US",
+    "precision": {
+      "value": 8,
+      "name": "address",
+      "types": [
+        "street_address"
+      ]
+    },
+    "station_locator_url": "https://afdc.energy.gov/stations/",
+    "total_results": 505,
+    "station_counts": {
+      "total": 1333,
+      "fuels": {
+        "BD": {
+          "total": 0
+        },
+        "E85": {
+          "total": 4
+        },
+        "ELEC": {
+          "total": 1313,
+          "stations": {
+            "total": 485
+          }
+        },
+        "HY": {
+          "total": 2
+        },
+        "LNG": {
+          "total": 1
+        },
+        "CNG": {
+          "total": 5
+        },
+        "LPG": {
+          "total": 2
+        },
+        "RD": {
+          "total": 6
+        }
+      }
+    },
+    "offset": 0,
+    "fuel_stations": [
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "expected_date": "2023-10-21",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "TEMPORARILY UNAVAILABLE (Public)",
+        "id": 99246,
+        "open_date": "2018-06-14",
+        "status_code": "T",
+        "station_name": "731 Venice Beach",
+        "station_phone": "855-900-7584",
+        "updated_at": "2023-11-02T01:14:59Z",
+        "geocode_status": "200-9",
+        "latitude": 33.985498,
+        "longitude": -118.469336,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "200 N Venice Blvd",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "SHELL_RECHARGE",
+        "ev_network_web": "https://shellrecharge.com/en-us/solutions",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "TEMPORAIREMENT SUSPENDU (Public)",
+        "ev_network_ids": {
+          "station": [
+            "844"
+          ],
+          "posts": [
+            "182044"
+          ]
+        },
+        "distance": 0.09357,
+        "distance_km": 0.15059
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 152929,
+        "open_date": "2020-01-23",
+        "status_code": "E",
+        "station_name": "1348 Abbot Kinney Blvd",
+        "station_phone": "888-356-8911",
+        "updated_at": "2023-11-02T01:28:09Z",
+        "geocode_status": "GPS",
+        "latitude": 33.990793,
+        "longitude": -118.466391,
+        "city": "Los Angeles",
+        "state": "CA",
+        "street_address": "1348 Abbot Kinney Blvd",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "FLO",
+        "ev_network_web": "https://flo.ca/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "1f535f9d-717d-4524-bf04-f4f83374dd92"
+          ],
+          "posts": [
+            "d028b0a2-5d66-4ccb-b641-a272b43be437"
+          ]
+        },
+        "distance": 0.4597,
+        "distance_km": 0.73982
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 220268,
+        "open_date": "2022-05-27",
+        "status_code": "E",
+        "station_name": "302 Washington Blvd",
+        "station_phone": "888-356-8911",
+        "updated_at": "2023-11-02T01:28:07Z",
+        "geocode_status": "GPS",
+        "latitude": 33.98047873,
+        "longitude": -118.4646084,
+        "city": "Los Angeles",
+        "state": "CA",
+        "street_address": "302 Washington Blvd",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "FLO",
+        "ev_network_web": "https://flo.ca/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "d43dd333-4cbc-4f87-bb9e-e3230baa64d9"
+          ],
+          "posts": [
+            "560d95e4-c6ef-4aed-bf28-0f3517d0780f"
+          ]
+        },
+        "distance": 0.49342,
+        "distance_km": 0.79408
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "expected_date": "2023-09-11",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "TEMPORARILY UNAVAILABLE (Public)",
+        "id": 235417,
+        "open_date": "2012-02-10",
+        "status_code": "T",
+        "station_name": "Recargo Venice",
+        "station_phone": "800-663-5633",
+        "updated_at": "2023-11-02T00:03:46Z",
+        "geocode_status": "GPS",
+        "latitude": 33.9923045,
+        "longitude": -118.4729928,
+        "city": "Venice",
+        "intersection_directions": "Private",
+        "state": "CA",
+        "street_address": "1015 Abbot Kinney Blvd",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "Blink Network",
+        "ev_network_web": "http://www.blinkcharging.com/",
+        "ev_pricing": "FREE",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "TEMPORAIREMENT SUSPENDU (Public)",
+        "ev_network_ids": {
+          "station": [
+            "d0e864cf-fb2a-3dbf-1307-c00000000470"
+          ],
+          "posts": [
+            "ec7d626f-5a87-3f0b-1307-200000000920"
+          ]
+        },
+        "distance": 0.49615,
+        "distance_km": 0.79848
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 163412,
+        "open_date": "2020-06-16",
+        "status_code": "E",
+        "station_name": "114 Washington Blvd",
+        "station_phone": "855-900-7584",
+        "updated_at": "2023-11-02T01:13:56Z",
+        "geocode_status": "GPS",
+        "latitude": 33.979922,
+        "longitude": -118.46506,
+        "city": "Marina Del Rey",
+        "state": "CA",
+        "street_address": "114 Washington Blvd",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "SHELL_RECHARGE",
+        "ev_network_web": "https://shellrecharge.com/en-us/solutions",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "2447"
+          ],
+          "posts": [
+            "12530A"
+          ]
+        },
+        "distance": 0.50227,
+        "distance_km": 0.80833
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 231150,
+        "open_date": "2022-10-03",
+        "status_code": "E",
+        "station_name": "ELECTRIC LODGE TERMINAL 2",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:30:27Z",
+        "geocode_status": "GPS",
+        "latitude": 33.991164,
+        "longitude": -118.465022,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "1416 Electric Ave",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL1814081"
+          ],
+          "posts": [
+            "22335641"
+          ]
+        },
+        "distance": 0.52786,
+        "distance_km": 0.84951
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 231148,
+        "open_date": "2022-10-03",
+        "status_code": "E",
+        "station_name": "ELECTRIC LODGE TERMINAL 1",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:12:33Z",
+        "geocode_status": "GPS",
+        "latitude": 33.991243,
+        "longitude": -118.465006,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "1416 Electric Ave",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL119511"
+          ],
+          "posts": [
+            "22541741"
+          ]
+        },
+        "distance": 0.53262,
+        "distance_km": 0.85717
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 231145,
+        "open_date": "2022-10-03",
+        "status_code": "E",
+        "station_name": "ELECTRIC LODGE TERMINAL 3",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:12:14Z",
+        "geocode_status": "GPS",
+        "latitude": 33.99129,
+        "longitude": -118.464976,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "1416 Electric Avenue",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL118125"
+          ],
+          "posts": [
+            "150143"
+          ]
+        },
+        "distance": 0.53621,
+        "distance_km": 0.86295
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 231146,
+        "open_date": "2022-10-03",
+        "status_code": "E",
+        "station_name": "ELECTRIC LODGE TERMINAL 4",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:12:14Z",
+        "geocode_status": "GPS",
+        "latitude": 33.991302,
+        "longitude": -118.46496,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "1416 Electric Avenue",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL118135"
+          ],
+          "posts": [
+            "22335611"
+          ]
+        },
+        "distance": 0.53743,
+        "distance_km": 0.86491
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 231147,
+        "open_date": "2022-10-03",
+        "status_code": "E",
+        "station_name": "ELECTRIC LODGE TERMINAL 5",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:12:14Z",
+        "geocode_status": "GPS",
+        "latitude": 33.991326,
+        "longitude": -118.464939,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "1416 Electric Avenue",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL118155"
+          ],
+          "posts": [
+            "150177"
+          ]
+        },
+        "distance": 0.53947,
+        "distance_km": 0.86819
+      },
+      {
+        "access_code": "private",
+        "access_detail_code": "GOVERNMENT",
+        "date_last_confirmed": "2023-04-06",
+        "fuel_type_code": "CNG",
+        "groups_with_access_code": "Private - Government only",
+        "id": 67033,
+        "open_date": "2009-05-06",
+        "owner_type_code": "LG",
+        "status_code": "E",
+        "maximum_vehicle_class": "HD",
+        "station_name": "City of Los Angeles - Venice",
+        "updated_at": "2023-05-30T18:46:28Z",
+        "facility_type": "MUNI_GOV",
+        "geocode_status": "200-8",
+        "latitude": 33.988269,
+        "longitude": -118.461025,
+        "city": "Venice",
+        "intersection_directions": "At Washington Way",
+        "state": "CA",
+        "street_address": "2000 Abbot Kinney Blvd",
+        "zip": "90291",
+        "country": "US",
+        "cng_dispenser_num": 2,
+        "cng_fill_type_code": "Q",
+        "cng_psi": "3600",
+        "cng_renewable_source": "NONE",
+        "cng_total_compression": 250,
+        "cng_vehicle_class": "HD",
+        "cng_has_rng": true,
+        "ng_fill_type_code": "Q",
+        "ng_psi": "3600",
+        "ng_vehicle_class": "HD",
+        "groups_with_access_code_fr": "Privé - Réservé au gouvernement",
+        "distance": 0.60523,
+        "distance_km": 0.97402
+      },
+      {
+        "access_code": "public",
+        "date_last_confirmed": "2022-10-06",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 113118,
+        "open_date": "2015-04-07",
+        "owner_type_code": "P",
+        "status_code": "E",
+        "station_name": "Marina del Rey Marriott - Tesla Destination",
+        "station_phone": "310-301-3000  877-798-3752",
+        "updated_at": "2023-01-18T15:15:20Z",
+        "facility_type": "HOTEL",
+        "geocode_status": "200-8",
+        "latitude": 33.982146,
+        "longitude": -118.459493,
+        "city": "Marina del Rey",
+        "state": "CA",
+        "street_address": "4100 Admiralty Way",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "TESLA"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "Tesla Destination",
+        "ev_network_web": "https://www.tesla.com/destination-charging",
+        "ev_pricing": "Free",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "502482"
+          ]
+        },
+        "distance": 0.69302,
+        "distance_km": 1.11531
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 148813,
+        "open_date": "2011-12-27",
+        "status_code": "E",
+        "station_name": "Shores, LLC.",
+        "station_phone": "800-663-5633",
+        "updated_at": "2023-11-02T00:03:45Z",
+        "geocode_status": "GPS",
+        "latitude": 33.9784671,
+        "longitude": -118.4595994,
+        "city": "Marina del Rey",
+        "state": "CA",
+        "street_address": "4201 Via Marina",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 5,
+        "ev_network": "Blink Network",
+        "ev_network_web": "http://www.blinkcharging.com/",
+        "ev_pricing": "$2.00-$15.00/Hr Variable Parking Fee",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "d0e864cf-fb2a-3dbf-1307-c00000000414"
+          ],
+          "posts": [
+            "ec7d626f-5a87-3f0b-1307-200000000684",
+            "ec7d626f-5a87-3f0b-1307-200000000685",
+            "ec7d626f-5a87-3f0b-1307-200000001209",
+            "ec7d626f-5a87-3f0b-1307-200000001210",
+            "ec7d626f-5a87-3f0b-1307-200000001383"
+          ]
+        },
+        "distance": 0.80448,
+        "distance_km": 1.29469
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 158943,
+        "open_date": "2020-06-12",
+        "status_code": "E",
+        "station_name": "NEPTUNE MARINA NM2",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:31:17Z",
+        "geocode_status": "GPS",
+        "latitude": 33.97644,
+        "longitude": -118.458401,
+        "city": "Marina del Rey",
+        "state": "CA",
+        "street_address": "14126 Marquesas Way",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL1861601"
+          ],
+          "posts": [
+            "2190001",
+            "2190011"
+          ]
+        },
+        "distance": 0.94495,
+        "distance_km": 1.52075
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 176579,
+        "open_date": "2021-01-27",
+        "status_code": "E",
+        "station_name": "FWM STATION 02",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:29:04Z",
+        "geocode_status": "GPS",
+        "latitude": 33.976827,
+        "longitude": -118.455731,
+        "city": "Marina del Rey",
+        "state": "CA",
+        "street_address": "13999 Marquesas Way",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL1698531"
+          ],
+          "posts": [
+            "1991711",
+            "1991721"
+          ]
+        },
+        "distance": 1.05141,
+        "distance_km": 1.69208
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 159103,
+        "open_date": "2020-06-12",
+        "status_code": "E",
+        "station_name": "FWM STATION 01",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:29:04Z",
+        "geocode_status": "GPS",
+        "latitude": 33.976822,
+        "longitude": -118.45569,
+        "city": "Marina del Rey",
+        "state": "CA",
+        "street_address": "13999 Marquesas Way",
+        "zip": "90292",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL1698541"
+          ],
+          "posts": [
+            "1991731",
+            "1991741"
+          ]
+        },
+        "distance": 1.05355,
+        "distance_km": 1.69552
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 158236,
+        "open_date": "2020-05-30",
+        "status_code": "E",
+        "station_name": "SEA COLONY II #1",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:37:10Z",
+        "geocode_status": "GPS",
+        "latitude": 33.99827,
+        "longitude": -118.481125,
+        "city": "Santa Monica",
+        "state": "CA",
+        "street_address": "2946 Neilson Way",
+        "zip": "90405",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL2118791"
+          ],
+          "posts": [
+            "2527861",
+            "2527871"
+          ]
+        },
+        "distance": 1.0673,
+        "distance_km": 1.71765
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "Mon 5:00am - 10:59pm; Tue 5:00am - 10:59pm; Wed 5:00am - 10:59pm; Thu 5:00am - 10:59pm; Fri 5:00am - 10:59pm; Sat 5:00am - 10:59pm; Sun 5:00am - 10:59pm",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 151266,
+        "open_date": "2016-02-09",
+        "status_code": "E",
+        "restricted_access": false,
+        "station_name": "Lincoln \u0026 Rose Shopping Center",
+        "station_phone": "888-264-2208",
+        "updated_at": "2023-11-02T01:23:20Z",
+        "geocode_status": "GPS",
+        "latitude": 34.001324,
+        "longitude": -118.469532,
+        "city": "Venice",
+        "state": "CA",
+        "street_address": "Lincoln Blvd \u0026 Rose Ave",
+        "zip": "90291",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 2,
+        "ev_network": "Volta",
+        "ev_network_web": "https://voltacharging.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "99de3917-3ba3-4a48-9532-68b2a049d9f1"
+          ],
+          "posts": [
+            "0322854b-4168-4a23-8a3f-f28e901a0234",
+            "84d31191-cb4a-42f1-8dca-9dabe1fee39e"
+          ]
+        },
+        "distance": 1.10675,
+        "distance_km": 1.78114
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily; pay lot",
+        "date_last_confirmed": "2023-01-10",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 96796,
+        "open_date": "2019-04-08",
+        "owner_type_code": "LG",
+        "status_code": "E",
+        "restricted_access": false,
+        "maximum_vehicle_class": "LD",
+        "station_name": "City of Santa Monica - Lot 9",
+        "station_phone": "310-458-8529",
+        "updated_at": "2023-02-14T15:54:11Z",
+        "facility_type": "PARKING_LOT",
+        "geocode_status": "GPS",
+        "latitude": 33.999203,
+        "longitude": -118.481415,
+        "city": "Santa Monica",
+        "intersection_directions": "Located at the south end at Ashland St",
+        "state": "CA",
+        "street_address": "2901 Neilson Way",
+        "zip": "90405",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 6,
+        "ev_network": "Non-Networked",
+        "ev_pricing": "Free",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "distance": 1.13043,
+        "distance_km": 1.81925
+      },
+      {
+        "access_code": "public",
+        "access_days_time": "24 hours daily",
+        "date_last_confirmed": "2023-11-02",
+        "fuel_type_code": "ELEC",
+        "groups_with_access_code": "Public",
+        "id": 181408,
+        "open_date": "2021-01-27",
+        "status_code": "E",
+        "station_name": "SANTA MONICA LOT 5S 1",
+        "station_phone": "888-758-4389",
+        "updated_at": "2023-11-02T00:41:04Z",
+        "geocode_status": "GPS",
+        "latitude": 33.997935,
+        "longitude": -118.483599,
+        "city": "Santa Monica",
+        "state": "CA",
+        "street_address": "2701 Barnard Way",
+        "zip": "90405",
+        "country": "US",
+        "ev_connector_types": [
+          "J1772"
+        ],
+        "ev_level2_evse_num": 1,
+        "ev_network": "ChargePoint Network",
+        "ev_network_web": "http://www.chargepoint.com/",
+        "ev_workplace_charging": false,
+        "groups_with_access_code_fr": "Public",
+        "ev_network_ids": {
+          "station": [
+            "USCPIL5407081"
+          ],
+          "posts": [
+            "12926881"
+          ]
+        },
+        "distance": 1.13337,
+        "distance_km": 1.82398
+      }
+    ]
+  },
+  "parentDocumentId": "0003bba2c5df0501dba30f8b2617d862"
+}
