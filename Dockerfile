@@ -3,7 +3,7 @@ FROM openjdk:11
 
 WORKDIR /app
 
-COPY ./docker-poc/output_jar/poc1.jar /app/poc1.jar
+COPY C:/Users/rohan_patil/IWC_poc/rajan_poc_code/poc1/target/poc1-0.0.1-SNAPSHOT.jar /app/poc1.jar
 
 COPY ../key.json /app/key.json
 
