@@ -1,17 +1,3 @@
-#FROM openjdk:11
-
-#WORKDIR /app
-
-#COPY docker-poc/target/poc1-0.0.1-SNAPSHOT.jar /app/poc1.jar
-
-#COPY key.json /app/key.json
-
-#ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
-
-#CMD ["java", "-jar", "poc1.jar"]
-
-#############################################################
-
 FROM gcr.io/google.com/cloudsdktool/cloud-sdk:latest
 
 VOLUME [ "/credendials" ]
